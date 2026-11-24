@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://youram470-art.github.io/ai-video-benchmarks/sitemap.xml
+Sitemap: https://barasel200-bit.github.io/ai-video-benchmarks/sitemap.xml
